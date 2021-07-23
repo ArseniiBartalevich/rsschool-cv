@@ -29,6 +29,7 @@ header {
 }
 .avatar {
   border-radius: 20px;
+  background-size: cover;
 }
 .contacts {
   color: white;
